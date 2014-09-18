@@ -15,4 +15,5 @@ def main():
     unittest.main()
 
 if __name__ == "__main__":
+    print "Yo dawg I herd u liek snakes"
     main()
